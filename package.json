@@ -1,0 +1,25 @@
+{
+  "name": "react-fs-app",
+  "version": "1.0.0",
+  "description": "This is a boilerplate and the fastest way to create a full stack react web application.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "tsc && node dist/index.js"
+  },
+  "keywords": [
+    "Full",
+    "Stack",
+    "React"
+  ],
+  "author": "Muneeb Mohd",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.3",
+    "shelljs": "^0.8.5"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  },
+  "type": "module"
+
+}
